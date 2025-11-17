@@ -1,4 +1,4 @@
-🛠️ About the Hackathon (Detailed Version)
+🛠️ About the Hackathon (Detailed Version) 
 
 The Inter-College 24-Hour NEXATHON 2025 is a high-intensity innovation marathon designed to challenge engineering students to transform ideas into real, functional prototypes within a strict 24-hour window. It brings together passionate developers, designers, and innovators from various engineering branches to collaborate, problem-solve, and build impactful technological solutions.
 
